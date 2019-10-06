@@ -1,0 +1,7 @@
+C:\Users\Nihil\Desktop\0CT0B3R\01_DoWhile\bin\Debug\01_DoWhile.exe.config
+C:\Users\Nihil\Desktop\0CT0B3R\01_DoWhile\bin\Debug\01_DoWhile.exe
+C:\Users\Nihil\Desktop\0CT0B3R\01_DoWhile\bin\Debug\01_DoWhile.pdb
+C:\Users\Nihil\Desktop\0CT0B3R\01_DoWhile\obj\Debug\01_DoWhile.csprojAssemblyReference.cache
+C:\Users\Nihil\Desktop\0CT0B3R\01_DoWhile\obj\Debug\01_DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Nihil\Desktop\0CT0B3R\01_DoWhile\obj\Debug\01_DoWhile.exe
+C:\Users\Nihil\Desktop\0CT0B3R\01_DoWhile\obj\Debug\01_DoWhile.pdb
