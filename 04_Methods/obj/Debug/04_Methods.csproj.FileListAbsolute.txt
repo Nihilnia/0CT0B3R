@@ -1,0 +1,7 @@
+C:\Users\Nihil\Desktop\0CT0B3R\04_Methods\bin\Debug\04_Methods.exe.config
+C:\Users\Nihil\Desktop\0CT0B3R\04_Methods\bin\Debug\04_Methods.exe
+C:\Users\Nihil\Desktop\0CT0B3R\04_Methods\bin\Debug\04_Methods.pdb
+C:\Users\Nihil\Desktop\0CT0B3R\04_Methods\obj\Debug\04_Methods.csprojAssemblyReference.cache
+C:\Users\Nihil\Desktop\0CT0B3R\04_Methods\obj\Debug\04_Methods.csproj.CoreCompileInputs.cache
+C:\Users\Nihil\Desktop\0CT0B3R\04_Methods\obj\Debug\04_Methods.exe
+C:\Users\Nihil\Desktop\0CT0B3R\04_Methods\obj\Debug\04_Methods.pdb
