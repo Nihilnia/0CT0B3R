@@ -1,0 +1,7 @@
+C:\Users\Nihil\Desktop\0CT0B3R\05_Methods_Ex\bin\Debug\05_Methods_Ex.exe.config
+C:\Users\Nihil\Desktop\0CT0B3R\05_Methods_Ex\bin\Debug\05_Methods_Ex.exe
+C:\Users\Nihil\Desktop\0CT0B3R\05_Methods_Ex\bin\Debug\05_Methods_Ex.pdb
+C:\Users\Nihil\Desktop\0CT0B3R\05_Methods_Ex\obj\Debug\05_Methods_Ex.csprojAssemblyReference.cache
+C:\Users\Nihil\Desktop\0CT0B3R\05_Methods_Ex\obj\Debug\05_Methods_Ex.csproj.CoreCompileInputs.cache
+C:\Users\Nihil\Desktop\0CT0B3R\05_Methods_Ex\obj\Debug\05_Methods_Ex.exe
+C:\Users\Nihil\Desktop\0CT0B3R\05_Methods_Ex\obj\Debug\05_Methods_Ex.pdb
